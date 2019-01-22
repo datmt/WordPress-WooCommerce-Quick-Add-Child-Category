@@ -1,0 +1,33 @@
+@import "../../src/css/normalize";
+@import "../../src/css/skeleton";
+@import "../../src/css/cropper";
+@import "../../src/css/lightcase";
+@import "../../src/css/pnotify.custom";
+@import "../../src/css/fa47/scss/font-awesome";
+
+#bc-uic-selected-image {
+  margin: auto;
+  text-align: center;
+  //width: 100%;
+  max-width: 100%;
+}
+
+#result-pane {
+  display: none;
+  position: absolute;
+  background: rgba(0,0,0,.3);
+  text-align: center;
+  padding: 20px;
+  width: 100%;
+  height: 100%;
+
+  #preview-image {
+    background: #fff;
+    padding: 20px;
+    margin: auto;
+    top: 30px;
+    -webkit-box-shadow: 1px 1px 1px 1px rgba(255,255,255, .4);
+    -moz-box-shadow: 1px 1px 1px 1px  rgba(255,255,255, .4);
+    box-shadow: 1px 1px 1px 1px  rgba(255,255,255, .4);
+  }
+}

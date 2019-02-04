@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: My new plugin
+Plugin Name: MIN WP NAME
 Plugin URI:  https://binarycarpenter.com/
-Description: this is a plugin
+Description: plugin_description
 Version: 1.0
 Author: bc2018
 Author URI: https://binarycarpenter.com

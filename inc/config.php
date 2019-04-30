@@ -6,6 +6,6 @@
  * Time: 12:48 AM
  */
 
-define('MIN_WP_NAME', 'Min WP Starter');
-define('MIN_WP_PREFIX', 'min_wp_');
-define('MIN_WP_SLUG', 'min_wp_slug');
+define('BC_QUICK_ADD_CHILD_CATEGORY_NAME', 'BC Quick Add Child Category');
+define('BC_QUICK_ADD_CHILD_CATEGORY_', 'bc_quick_add_child_category_');
+define('BC_QUICK_ADD_CHILD_CATEGORY_SLUG', 'bc_quick_add_child_category_slug');

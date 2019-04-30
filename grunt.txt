@@ -1,7 +1,0 @@
-sass --watch C:/xampp/htdocs/wordpress/wp-content/plugins/woo-slider-pro/bundle/css/backend.scss:C:/xampp/htdocs/wordpress/wp-content/plugins/woo-slider-pro/bundle/css/backend.css C:/xampp/htdocs/wordpress/wp-content/plugins/woo-slider-pro/bundle/css/front.scss:C:/xampp/htdocs/wordpress/wp-content/plugins/woo-slider-pro/bundle/css/front.css
-
-xcopy /r /d /i /s /y /exclude:C:\xampp\htdocs\wordpress\wp-content\plugins\exclude-woo-slider-pro.txt C:\xampp\htdocs\wordpress\wp-content\plugins\woo-slider-pro C:\Users\MYN\Documents\woo-slider-pro
-
-
-//copy free
-xcopy /r /d /i /s /y /exclude:C:\xampp\htdocs\wordpress\wp-content\plugins\exclude-woo-slider-pro.txt C:\xampp\htdocs\wordpress\wp-content\plugins\woo-slider-pro C:\xampp\htdocs\test\wp-content\plugins\woo-slider-pro-drag-drop-slider-builder-for-woocommerce\trunk
